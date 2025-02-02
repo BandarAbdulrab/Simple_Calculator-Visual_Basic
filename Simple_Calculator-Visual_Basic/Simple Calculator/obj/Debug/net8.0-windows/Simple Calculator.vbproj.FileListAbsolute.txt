@@ -1,0 +1,32 @@
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\Simple_Calculator.Form1.resources
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.vbproj.GenerateResource.cache
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfo.vb
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.exe
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.deps.json
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.runtimeconfig.json
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.dll
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.pdb
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.dll
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\refint\Simple Calculator.dll
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.pdb
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.genruntimeconfig.cache
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Visual Basic\Simple Calculator\obj\Debug\net8.0-windows\ref\Simple Calculator.dll
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.exe
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.deps.json
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.runtimeconfig.json
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.dll
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.pdb
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple_Calculator.Form1.resources
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.vbproj.GenerateResource.cache
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfo.vb
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.dll
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\refint\Simple Calculator.dll
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.pdb
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.genruntimeconfig.cache
+C:\Users\Bandar Abdulrab\Desktop\code\visual studio\Simple Calculator\Simple Calculator\obj\Debug\net8.0-windows\ref\Simple Calculator.dll
