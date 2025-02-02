@@ -20,5 +20,5 @@ A simple calculator application built using Windows Forms in Visual Basic. The c
 ## Code Overview
 The main form (Form1) contains the UI elements and event handlers for the calculator. The Button_Click method handles number and operator button clicks, while the btnEquals_Click method evaluates the expression and displays the result. The EvaluateExpression function uses a DataTable to compute the result of the expression.
 
-License
+## License
 This project is licensed under the MIT License.
